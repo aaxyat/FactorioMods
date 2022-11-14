@@ -34,6 +34,11 @@
     },
     
     {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
       "name": "Squeak Through",
       "enabled": true
     },

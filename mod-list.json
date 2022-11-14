@@ -34,8 +34,18 @@
     },
     
     {
-      "name": "RateCalculator",
+      "name": "OutpostPlanner1-1",
       "enabled": true
+    },
+    
+    {
+      "name": "PlannerCore1-1",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": false
     },
     
     {

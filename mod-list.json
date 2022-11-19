@@ -29,7 +29,17 @@
     },
     
     {
+      "name": "helmod",
+      "enabled": true
+    },
+    
+    {
       "name": "long-reach-clone",
+      "enabled": true
+    },
+    
+    {
+      "name": "MaxRateCalculator",
       "enabled": true
     },
     
@@ -45,7 +55,7 @@
     
     {
       "name": "RateCalculator",
-      "enabled": false
+      "enabled": true
     },
     
     {

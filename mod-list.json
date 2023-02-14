@@ -79,6 +79,11 @@
     },
     
     {
+      "name": "RailSignalPlanner",
+      "enabled": true
+    },
+    
+    {
       "name": "RateCalculator",
       "enabled": true
     },

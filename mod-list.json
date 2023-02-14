@@ -59,6 +59,11 @@
     },
     
     {
+      "name": "LightedPolesPlus",
+      "enabled": true
+    },
+    
+    {
       "name": "long-reach-clone",
       "enabled": true
     },

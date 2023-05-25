@@ -74,6 +74,11 @@
     },
     
     {
+      "name": "Milestones",
+      "enabled": true
+    },
+    
+    {
       "name": "OutpostPlanner1-1",
       "enabled": true
     },
